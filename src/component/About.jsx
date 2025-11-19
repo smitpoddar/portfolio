@@ -54,7 +54,7 @@ export default function About() {
             </h3>
             <p className="text-gray-300 leading-relaxed">
               A developer who loves clean code, problem-solving, and designing
-              beautiful user experiences with a modern neon touch.
+              beautiful user experiences with a modern touch.
             </p>
           </div>
         </div>
