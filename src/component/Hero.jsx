@@ -20,7 +20,7 @@ export default function Hero() {
         <p className="text-gray-300 mt-5 leading-relaxed max-w-lg mx-auto md:mx-0">
           I build clean, scalable, and modern applications using Java, Spring
           Boot, MySQL, React.js, and JavaScript. Passionate about backend
-          engineering and clean UI design.
+          development and clean UI design.
         </p>
 
         <div className="flex gap-4 mt-8 justify-center md:justify-start">
